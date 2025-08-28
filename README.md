@@ -35,7 +35,8 @@ Split the image (boy.jpg) into B, G, R components and display the channels
 - **Register Number:** 212224240129
 
   ### Ex. No. 01
-
+  ### Image Handling and Pixel Transformations Using OpenCV
+  **Name:** G.Ramanujam    **Reg.No:** 212224240129
 #### 1. Read the image ('Eagle_in_Flight.jpg') using OpenCV imread() as a grayscale image.
 ```python
 import cv2
@@ -59,23 +60,19 @@ plt.show()
 
 #### 4. Save the image as a PNG file using OpenCV imwrite().
 ```python
-img_save=cv2.imread('Eagle_in_Flight.jpg')
-cv2.imwrite('Eagle.png',img_save)
+cv2.imwrite('Eagle.png',img)
 ```
 
 #### 5. Read the saved image above as a color image using cv2.cvtColor().
 ```python
-img=cv2.imread('Eagle.png')
-img_rgb=cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
+img = cv2.imread('Eagle_in_Flight.jpg')  
+img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 ```
 
 #### 6. Display the Colour image using matplotlib imshow() & Print the image width, height & channel.
 ```python
-img_save=cv2.imread('Eagle_in_Flight.jpg')
-cv2.imwrite('Eagle.png',img_save)
 plt.imshow(img_rgb)
 plt.show()
-img_rgb.shape
 ```
 
 #### 7. Crop the image to extract any specific (Eagle alone) object from the image.
@@ -100,15 +97,14 @@ flipped_img=cv2.flip(crop,1)
 
 #### 10. Read in the image ('Apollo-11-launch.jpg').
 ```python
-plt.imshow(flipped_img[:,:,::1])
-plt.title("Flipped image")
-plt.axis('off')
-plt.show()
+img=cv2.imread('Apollo-11-launch.jpg',cv2.IMREAD_COLOR)
+img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+img_rgb.shape
 ```
 
 #### 11. Add the following text to the dark area at the bottom of the image (centered on the image):
 ```python
-text=cv2.putText(img_rgb,"ramanujam",(200,50),cv2.FONT_HERSHEY_SIMPLEX,2,(255,255,255),2)
+text=cv2.putText(img_rgb,"Apollo 11 Saturn V Launch",(300, 700),cv2.FONT_HERSHEY_SIMPLEX,1,(255,255,255),2)
 plt.imshow(text)
 plt.title('New Image')
 plt.show()
@@ -129,7 +125,7 @@ plt.show()
 
 #### 14. Read the image ('Boy.jpg').
 ```python
-img =cv2.imread('Eagle_in_Flight.jpg',cv2.IMREAD_COLOR)
+img =cv2.imread('boy.jpg',cv2.IMREAD_COLOR)
 img_rgb= cv2.cvtColor(img, cv2.COLOR_BGR2RGB) 
 ```
 
