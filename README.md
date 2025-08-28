@@ -216,25 +216,17 @@ plt.show()
 
 <img width="701" height="544" alt="Screenshot 2025-08-21 140442" src="https://github.com/user-attachments/assets/42f27cb5-df31-470a-8fb9-78392e3d3f7a" />
 
+<img width="689" height="514" alt="Screenshot 2025-08-28 192333" src="https://github.com/user-attachments/assets/be104483-167f-49cb-9cbb-956abd6b6081" />
+
 <img width="416" height="534" alt="Screenshot 2025-08-21 140500" src="https://github.com/user-attachments/assets/08965494-9d52-4566-b501-e8b057d45e56" />
 
 <img width="398" height="527" alt="Screenshot 2025-08-21 140509" src="https://github.com/user-attachments/assets/b27f5fb2-9b86-4bdb-9e75-f32322de1161" />
 
-<img width="751" height="549" alt="Screenshot 2025-08-21 140524" src="https://github.com/user-attachments/assets/f5f94a86-3e87-4c70-8146-644bf026d8e9" />
+<img width="778" height="436" alt="Screenshot 2025-08-28 192445" src="https://github.com/user-attachments/assets/a3949d89-2446-4674-a28a-59eeb25112f9" />
 
-<img width="710" height="555" alt="Screenshot 2025-08-21 140542" src="https://github.com/user-attachments/assets/f1d2be20-c596-499f-b5b3-a351b85b2e20" />
+<img width="762" height="426" alt="Screenshot 2025-08-28 192455" src="https://github.com/user-attachments/assets/52d0ad08-7b7f-4d85-976e-d24c6e3df766" />
 
-<img width="894" height="269" alt="Screenshot 2025-08-21 140554" src="https://github.com/user-attachments/assets/4dbc58f3-c78f-4931-9b08-4f6d5b72e1e0" />
-
-<img width="888" height="274" alt="Screenshot 2025-08-21 140604" src="https://github.com/user-attachments/assets/54d2c68b-aa63-4edc-ab2c-bf1d6a61a097" />
-
-<img width="889" height="258" alt="Screenshot 2025-08-21 140643" src="https://github.com/user-attachments/assets/0d480545-46e7-46c2-83ea-dc5d35243f00" />
-
-<img width="523" height="459" alt="Screenshot 2025-08-21 140653" src="https://github.com/user-attachments/assets/26bc03c8-de26-49bd-aa86-5e50a20c340a" />
-
-<img width="897" height="266" alt="Screenshot 2025-08-21 140708" src="https://github.com/user-attachments/assets/c02f2ef9-c420-480d-bfc4-c0e9e9f0bb2e" />
-
-<img width="909" height="382" alt="Screenshot 2025-08-21 140723" src="https://github.com/user-attachments/assets/e1fa03ac-33e3-4041-993d-d1a1b24d75a4" />
+<img width="900" height="276" alt="Screenshot 2025-08-28 192511" src="https://github.com/user-attachments/assets/cbbf89d7-45e4-48b7-b067-bde95ff59a22" />
 
 
 ## Result:
