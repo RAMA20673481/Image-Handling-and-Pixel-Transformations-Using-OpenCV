@@ -228,6 +228,16 @@ plt.show()
 
 <img width="900" height="276" alt="Screenshot 2025-08-28 192511" src="https://github.com/user-attachments/assets/cbbf89d7-45e4-48b7-b067-bde95ff59a22" />
 
+<img width="901" height="260" alt="Screenshot 2025-08-28 192521" src="https://github.com/user-attachments/assets/e6e62e36-9176-4507-9e9f-15fe72b24bef" />
+
+<img width="905" height="262" alt="Screenshot 2025-08-28 192532" src="https://github.com/user-attachments/assets/067d92d8-f60c-4829-9988-7719a75baeca" />
+
+<img width="576" height="436" alt="Screenshot 2025-08-28 192541" src="https://github.com/user-attachments/assets/3e7a2e23-9129-4ba1-8822-401c4daa74b5" />
+
+<img width="890" height="251" alt="Screenshot 2025-08-28 192552" src="https://github.com/user-attachments/assets/962700fc-d8e1-43b1-a976-6c6352cd982c" />
+
+<img width="888" height="384" alt="Screenshot 2025-08-28 192602" src="https://github.com/user-attachments/assets/ac11a77a-e128-4c53-ba0a-f8725a251a8e" />
+
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
